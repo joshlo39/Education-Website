@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Education Website",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Education Website"
+	}
+}
